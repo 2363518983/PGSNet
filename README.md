@@ -33,7 +33,7 @@ python tools/train.py local_configs/pgsnet/pgsnet.base.512x512.voc.160k.py
 
 ## Testing
 
-python tools/test.py local_configs/pgsnet/pgsnet.base.512x512.voc.160k.py work_dirs/pgsnet.base.512x512.voc.160k/iter_160000.pth
+python tools/test.py local_configs/pgsnet/pgsnet.base.512x512.voc.160k.py PGSNet.pth
 Download the well-trained models [PGSNet](https://pan.baidu.com/s/1l74vn9IuEpzzPwvkut-q_A)  code:cp7n
 
 
